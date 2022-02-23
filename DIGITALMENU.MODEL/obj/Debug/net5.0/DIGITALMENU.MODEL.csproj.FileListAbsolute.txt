@@ -1,0 +1,15 @@
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\bin\Debug\net5.0\DIGITALMENU.MODEL.deps.json
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\bin\Debug\net5.0\DIGITALMENU.MODEL.runtimeconfig.json
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\bin\Debug\net5.0\DIGITALMENU.MODEL.runtimeconfig.dev.json
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\bin\Debug\net5.0\DIGITALMENU.MODEL.dll
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\bin\Debug\net5.0\ref\DIGITALMENU.MODEL.dll
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\bin\Debug\net5.0\DIGITALMENU.MODEL.pdb
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.csproj.AssemblyReference.cache
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.AssemblyInfoInputs.cache
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.AssemblyInfo.cs
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.dll
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\ref\DIGITALMENU.MODEL.dll
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.pdb
+C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.MODEL\obj\Debug\net5.0\DIGITALMENU.MODEL.genruntimeconfig.cache
