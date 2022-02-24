@@ -16,3 +16,21 @@ C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.REPO\obj\
 C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.REPO\obj\Debug\net5.0\ref\DIGITALMENU.REPO.dll
 C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.pdb
 C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.genruntimeconfig.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\DIGITALMENU.REPO.deps.json
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\DIGITALMENU.REPO.runtimeconfig.json
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\DIGITALMENU.REPO.runtimeconfig.dev.json
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\DIGITALMENU.REPO.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\ref\DIGITALMENU.REPO.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\DIGITALMENU.REPO.pdb
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\DIGITALMENU.MODEL.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\bin\Debug\net5.0\DIGITALMENU.MODEL.pdb
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.csproj.CopyComplete
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\ref\DIGITALMENU.REPO.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.pdb
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.REPO\obj\Debug\net5.0\DIGITALMENU.REPO.genruntimeconfig.cache

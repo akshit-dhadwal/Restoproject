@@ -18,3 +18,23 @@ C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.BUSINESS\
 C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.BUSINESS\obj\Debug\net5.0\ref\DIGITALMENU.BUSINESS.dll
 C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.pdb
 C:\Users\Akshit Dadhwal\Desktop\RESTRO PROJECT\DIGITALMENU\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.genruntimeconfig.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.BUSINESS.deps.json
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.BUSINESS.runtimeconfig.json
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.BUSINESS.runtimeconfig.dev.json
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.BUSINESS.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\ref\DIGITALMENU.BUSINESS.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.BUSINESS.pdb
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.MODEL.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.REPO.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.MODEL.pdb
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\bin\Debug\net5.0\DIGITALMENU.REPO.pdb
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.csproj.CopyComplete
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\ref\DIGITALMENU.BUSINESS.dll
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.pdb
+C:\Users\harsh jangid\Desktop\RES\Restoproject\DIGITALMENU.BUSINESS\obj\Debug\net5.0\DIGITALMENU.BUSINESS.genruntimeconfig.cache

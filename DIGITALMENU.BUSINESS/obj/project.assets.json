@@ -5904,19 +5904,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\": {}
+    "C:\\Users\\harsh jangid\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Akshit Dadhwal\\Desktop\\RESTRO PROJECT\\DIGITALMENU\\DIGITALMENU.BUSINESS\\DIGITALMENU.BUSINESS.csproj",
+      "projectUniqueName": "C:\\Users\\harsh jangid\\Desktop\\RES\\Restoproject\\DIGITALMENU.BUSINESS\\DIGITALMENU.BUSINESS.csproj",
       "projectName": "DIGITALMENU.BUSINESS",
-      "projectPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\RESTRO PROJECT\\DIGITALMENU\\DIGITALMENU.BUSINESS\\DIGITALMENU.BUSINESS.csproj",
-      "packagesPath": "C:\\Users\\Akshit Dadhwal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\RESTRO PROJECT\\DIGITALMENU\\DIGITALMENU.BUSINESS\\obj\\",
+      "projectPath": "C:\\Users\\harsh jangid\\Desktop\\RES\\Restoproject\\DIGITALMENU.BUSINESS\\DIGITALMENU.BUSINESS.csproj",
+      "packagesPath": "C:\\Users\\harsh jangid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harsh jangid\\Desktop\\RES\\Restoproject\\DIGITALMENU.BUSINESS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Akshit Dadhwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\harsh jangid\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5930,11 +5930,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Akshit Dadhwal\\Desktop\\RESTRO PROJECT\\DIGITALMENU\\DIGITALMENU.MODEL\\DIGITALMENU.MODEL.csproj": {
-              "projectPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\RESTRO PROJECT\\DIGITALMENU\\DIGITALMENU.MODEL\\DIGITALMENU.MODEL.csproj"
+            "C:\\Users\\harsh jangid\\Desktop\\RES\\Restoproject\\DIGITALMENU.MODEL\\DIGITALMENU.MODEL.csproj": {
+              "projectPath": "C:\\Users\\harsh jangid\\Desktop\\RES\\Restoproject\\DIGITALMENU.MODEL\\DIGITALMENU.MODEL.csproj"
             },
-            "C:\\Users\\Akshit Dadhwal\\Desktop\\RESTRO PROJECT\\DIGITALMENU\\DIGITALMENU.REPO\\DIGITALMENU.REPO.csproj": {
-              "projectPath": "C:\\Users\\Akshit Dadhwal\\Desktop\\RESTRO PROJECT\\DIGITALMENU\\DIGITALMENU.REPO\\DIGITALMENU.REPO.csproj"
+            "C:\\Users\\harsh jangid\\Desktop\\RES\\Restoproject\\DIGITALMENU.REPO\\DIGITALMENU.REPO.csproj": {
+              "projectPath": "C:\\Users\\harsh jangid\\Desktop\\RES\\Restoproject\\DIGITALMENU.REPO\\DIGITALMENU.REPO.csproj"
             }
           }
         }
@@ -5976,6 +5976,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
